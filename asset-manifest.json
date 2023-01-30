@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Website-Restaurant-ReactJs/static/css/main.f8d702a1.css",
+    "main.js": "/Website-Restaurant-ReactJs/static/js/main.6921dfdb.js",
+    "static/media/meal.mp4": "/Website-Restaurant-ReactJs/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Website-Restaurant-ReactJs/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/Website-Restaurant-ReactJs/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/Website-Restaurant-ReactJs/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/Website-Restaurant-ReactJs/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/Website-Restaurant-ReactJs/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/Website-Restaurant-ReactJs/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/Website-Restaurant-ReactJs/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Website-Restaurant-ReactJs/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Website-Restaurant-ReactJs/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Website-Restaurant-ReactJs/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/Website-Restaurant-ReactJs/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Website-Restaurant-ReactJs/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/Website-Restaurant-ReactJs/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/Website-Restaurant-ReactJs/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Website-Restaurant-ReactJs/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Website-Restaurant-ReactJs/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Website-Restaurant-ReactJs/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Website-Restaurant-ReactJs/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Website-Restaurant-ReactJs/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Website-Restaurant-ReactJs/index.html",
+    "static/media/spoon.svg": "/Website-Restaurant-ReactJs/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.f8d702a1.css.map": "/Website-Restaurant-ReactJs/static/css/main.f8d702a1.css.map",
+    "main.6921dfdb.js.map": "/Website-Restaurant-ReactJs/static/js/main.6921dfdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d702a1.css",
+    "static/js/main.6921dfdb.js"
+  ]
+}
